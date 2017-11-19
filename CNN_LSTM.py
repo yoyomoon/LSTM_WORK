@@ -2,7 +2,7 @@
 import numpy as np
 import os
 import sys
-from deep_learning_HAR_master.utils.utilities import *
+from utilties import *
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 # import scipy.io as scipyio
