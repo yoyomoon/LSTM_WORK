@@ -2,7 +2,7 @@
 import numpy as np
 import os
 import sys
-from utilties import *
+from utilities import *
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 # import scipy.io as scipyio
