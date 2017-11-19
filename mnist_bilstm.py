@@ -1,17 +1,3 @@
-""" Bi-directional Recurrent Neural Network.
-
-A Bi-directional Recurrent Neural Network (LSTM) implementation example using
-TensorFlow library. This example is using the MNIST database of handwritten
-digits (http://yann.lecun.com/exdb/mnist/)
-
-Links:
-    [Long Short Term Memory](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)
-    [MNIST Dataset](http://yann.lecun.com/exdb/mnist/).
-
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
-"""
-
 from __future__ import print_function
 
 import tensorflow as tf
